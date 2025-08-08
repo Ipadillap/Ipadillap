@@ -1,24 +1,34 @@
-Hi, I'm Ignacio Padilla  
-Computer Engineering student (4 year) at Universidad de Concepción
+# 👋 Hi, I'm Ignacio Padilla
 
-🌱 I'm currently learning and working on software development, focusing on mobile apps and backend and frontend solutions.
+Estudiante de Ingeniería Civil en Computación (4° año) en la Universidad de Concepción.
 
-📫 How to reach me: igpadilla2021@udec.cl
+---
 
-Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/ignacio-padilla-palacios-44b87a377)  
-[GitHub](https://github.com/Ipadillap)
+🌱 Actualmente me encuentro aprendiendo y trabajando en desarrollo de software, con especial interés en aplicaciones móviles, soluciones backend y frontend.
 
-🚀 Tech Stack
+💡 Me apasiona crear soluciones digitales que sean útiles y tengan impacto positivo.
+
+---
+
+## 🚀 Tech Stack
 
 **Frameworks & Libraries:**  
-Flutter, React, Flask
+Flutter • React • Flask
 
-**Databases:**  
-SQL, NoSQL, Firebase
+**Bases de datos:**  
+SQL • NoSQL • Firebase
 
-**Languages:**  
-Dart, Python, JavaScript, HTML, CSS, C, C++
+**Lenguajes:**  
+Dart • Python • JavaScript • HTML • CSS • C • C++
 
-![Ipadillap's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ipadillap&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ipadillap&layout=compact&theme=radical)
+---
+
+## 📫 Contacto
+
+- Email: igpadilla2021@udec.cl
+- [LinkedIn](https://www.linkedin.com/in/ignacio-padilla-palacios-44b87a377)
+- [GitHub](https://github.com/Ipadillap)
+
+---
+
+<!-- Puedes agregar más secciones si lo deseas, como proyectos destacados, certificaciones, etc. -->
