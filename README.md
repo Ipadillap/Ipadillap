@@ -1,4 +1,4 @@
-# Ignacio Padilla
+# ¡Hola! Soy Ignacio Padilla
 
 **Estudiante de 5.º año de Ingeniería Civil Informática** — Universidad de Concepción  
 *Concepción, Chile*
