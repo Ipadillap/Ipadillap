@@ -3,7 +3,7 @@
 **Estudiante de 5.º año de Ingeniería Civil Informática** — Universidad de Concepción  
 *Concepción, Chile*
 
-Perfil con orientación generalista y alta capacidad de adaptación a distintas etapas del ciclo de vida del desarrollo de software, con énfasis en **desarrollo backend**, **modelado y gestión de bases de datos** y **desarrollo de aplicaciones móviles**.
+Perfil con orientación generalista y alta capacidad de adaptación a distintas etapas del ciclo de vida del desarrollo de software, con énfasis en **desarrollo backend**, **modelado y gestión de bases de datos** y **desarrollo frontend web(React)/appsMóviles(Flutter)**.
 
 ---
 
