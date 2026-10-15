@@ -98,5 +98,5 @@ Perfil con orientación generalista y alta capacidad de adaptación a distintas 
 | Medio | Detalle |
 | :--- | :--- |
 | **Correo Electrónico** | [igpadillapalacios@gmail.com](mailto:igpadillapalacios@gmail.com) |
-| **Perfil de GitHub** | [github.com/Ipadillap](https://github.com/Ipadillap) |
+| **Telefono** | +56 9 5695 1254 |
 | **Ubicación** | Concepción, Región del Bío-Bío, Chile |
