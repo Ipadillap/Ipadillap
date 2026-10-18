@@ -1,9 +1,6 @@
 # ¡Hola! Soy Ignacio Padilla
 
-**Estudiante de 5.º año de Ingeniería Civil Informática** — Universidad de Concepción  
-*Concepción, Chile*
-
-Perfil con orientación generalista y alta capacidad de adaptación a distintas etapas del ciclo de vida del desarrollo de software, con énfasis en **desarrollo backend**, **modelado y gestión de bases de datos** y **desarrollo frontend web(React)/appsMóviles(Flutter)**.
+Estudiante de 5.º año de Ingeniería Civil Informática (UdeC), generalista con foco en backend (NestJS, Spring Boot, SQL) y desarrollo móvil/web (Flutter, React), con experiencia en proyectos reales con usuarios finales y adaptación rápida a herramientas nuevas.
 
 ---
 
